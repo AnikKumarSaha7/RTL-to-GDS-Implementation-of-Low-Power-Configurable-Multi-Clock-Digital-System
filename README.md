@@ -38,4 +38,12 @@ Acts as a buffer for transferring data between modules operating on different cl
 Converts parallel data into serial format and transmits the processed results to an external device.
 
 ## Synthesis Report
+
+Area Report
 <img width="1525" height="866" alt="Image" src="https://github.com/user-attachments/assets/71eee70e-3487-45ec-8ed4-1d2d01541329" />
+
+Power Report
+<img width="918" height="434" alt="Image" src="https://github.com/user-attachments/assets/abe664ed-06b0-41c7-8f76-2699f0b2c32e" />
+
+Timing Report
+
