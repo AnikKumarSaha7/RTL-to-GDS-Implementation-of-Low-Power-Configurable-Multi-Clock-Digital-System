@@ -3,9 +3,9 @@
 The system incorporates a low-power, multi-clock digital processing unit that receives commands from an external source through a UART receiver and transmits the generated outputs via a UART transmitter. It is capable of performing arithmetic and logical operations, as well as register file read and write operations. 
 
 #System Overview
-####UART Receiver (UART RX)
+#UART Receiver (UART RX)
 Receives serial commands from an external device and converts them into parallel data that can be processed by the system.
-####System Controller
+#System Controller
 Decodes received commands and controls the operation of all internal modules, ensuring proper execution of read, write, and ALU operations.
 ####Register File
 Stores data, configuration settings, and ALU operands. It supports both read and write access.
