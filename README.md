@@ -46,4 +46,7 @@ Power Report
 <img width="918" height="434" alt="Image" src="https://github.com/user-attachments/assets/abe664ed-06b0-41c7-8f76-2699f0b2c32e" />
 
 Timing Report
+<img width="1084" height="1294" alt="Image" src="https://github.com/user-attachments/assets/54c975cc-e231-4672-9984-b2797e54d6ae" />
 
+## LEC Report
+<img width="970" height="820" alt="Image" src="https://github.com/user-attachments/assets/cbc6d4d0-71ce-45be-afde-e6ae2b9ca736" />
