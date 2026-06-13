@@ -68,7 +68,7 @@ Core Utilization is 50%
 <img width="1209" height="1150" alt="Image" src="https://github.com/user-attachments/assets/57d06653-65da-41cc-a472-fcb5ea206949" />
 
 ## Routing
-<img width="1213" height="1153" alt="Image" src="https://github.com/user-attachments/assets/bec28ca2-cf66-4c7b-8aa2-054e8c17c9e8" />
+<img width="1016" height="963" alt="Image" src="https://github.com/user-attachments/assets/2e313a7b-caf1-45f8-b9c3-7d0c115efa19" />
 
 ## DRC Verification
 <img width="1145" height="559" alt="Image" src="https://github.com/user-attachments/assets/b039b25a-20d0-4491-a41e-839b36e3b024" />
